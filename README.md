@@ -4,14 +4,6 @@
 ## Now the code supports torch 2.6 version
 ![introduction](./thumbnail.png)
 
-## What's New<a name="news"></a>
-
-[2024/11/22] :star: We release train & inference code! Enjoy! :smile: 
-
-[2024/08/12] :rocket: Our paper will be introduced as **oral presentation** at ECCV 2024!
-
-[2024/07/03] :fire: Our paper is accepted by ECCV 2024!
-
 ## Install
 ```
 pip install -r requirements.txt
