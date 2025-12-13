@@ -1,4 +1,4 @@
-# [ECCV 2024 - Oral] AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild
+# AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild
 
 # This repository is a modified work of https://github.com/redorangeyellowy/AttentionHand
 ## Now the code supports torch 2.6 version
